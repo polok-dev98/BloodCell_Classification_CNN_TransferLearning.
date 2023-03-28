@@ -1,6 +1,6 @@
 # Blood Cell Classification with CNN pre-trained model and comparing the accuracy with each other.
 
-# Dataset download link : https://drive.google.com/drive/folders/1cvfATR1q0bux3wb-wSUT2DfOKBg5zkWf?usp=sharing
+Dataset download link : https://drive.google.com/drive/folders/1cvfATR1q0bux3wb-wSUT2DfOKBg5zkWf?usp=sharing
 
 # About the project:
 
