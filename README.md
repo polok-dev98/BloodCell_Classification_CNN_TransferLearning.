@@ -2,7 +2,7 @@
 
 Dataset download link : https://drive.google.com/drive/folders/1cvfATR1q0bux3wb-wSUT2DfOKBg5zkWf?usp=sharing
 
-# About the project:
+# About the project :
 
 1. Used data augmentation(Image transformation) for transform the image for better representation.
 
